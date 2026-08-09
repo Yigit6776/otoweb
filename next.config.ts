@@ -4,4 +4,4 @@ const nextConfig: NextConfig = {
   /* config options here */
 };
 
-export default nextConfig;git add .
+export default nextConfig;
